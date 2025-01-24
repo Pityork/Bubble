@@ -5,6 +5,14 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/DELL/Documents/GitHub/Bubble/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/DELL/Documents/GitHub/Bubble/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/Users/DELL/Documents/GitHub/Bubble/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
+				"C:/Users/DELL/Documents/GitHub/Bubble/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/9K/1EFCAN5IW0ZN7I5PEYT13C.uasset",
+				"C:/Users/DELL/Documents/GitHub/Bubble/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/DELL/Documents/GitHub/Bubble/Content/ThirdPerson/bombel/NewBlueprint.uasset",
+				"C:/Users/DELL/Documents/GitHub/Bubble/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/MX/XDDSMNWQSS9T7PSFBDQLHN.uasset",
+				"C:/Users/DELL/Documents/GitHub/Bubble/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/0I/7Z6YJPTPY28ZJI67379673.uasset",
 				"D:/hackjam25/Bubble/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"D:/hackjam25/Bubble/Content/__ExternalActors__/ThirdPerson/Maps/mainmap_01/5/SH/9KTZ3VHR2JHH865AP8SPFF.uasset",
 				"D:/hackjam25/Bubble/Content/__ExternalActors__/ThirdPerson/Maps/mainmap_01/0/Q2/JEJC89IGZ1TCKDYX0MZBK1.uasset",
@@ -206,7 +214,9 @@
 				"D:/hackjam25/Bubble/Content/TokyoStylizedEnvironment/Maps/Tokyo.umap",
 				"C:/Users/Maja/Documents/Unreal Projects/hackjam2025/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/Maja/Documents/GitHub/Bubble/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
-				"C:/Users/Maja/Documents/GitHub/Bubble/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+				"C:/Users/Maja/Documents/GitHub/Bubble/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Maja/Documents/GitHub/Bubble/Content/ThirdPerson/bombel/bubbleshot.uasset",
+				"C:/Users/Maja/Documents/GitHub/Bubble/Content/ThirdPerson/bombel/bubblewsysanie.uasset"
 			]
 		}
 	]
