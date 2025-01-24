@@ -6,7 +6,8 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/Maja/Documents/Unreal Projects/hackjam2025/Content/StarterContent/Architecture/Floor_400x400.uasset",
-				"C:/Users/Maja/Documents/GitHub/Bubble/Content/ThirdPerson/Maps/ThirdPersonMap.umap"
+				"C:/Users/Maja/Documents/GitHub/Bubble/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/Users/Maja/Documents/GitHub/Bubble/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
 			]
 		}
 	]
