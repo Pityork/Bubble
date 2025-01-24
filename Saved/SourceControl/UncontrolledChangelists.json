@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Maja/Documents/Unreal Projects/hackjam2025/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Maja/Documents/GitHub/Bubble/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/Users/Maja/Documents/GitHub/Bubble/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Maja/Documents/GitHub/Bubble/Content/ThirdPerson/bombel/bubbleshot.uasset",
+				"C:/Users/Maja/Documents/GitHub/Bubble/Content/ThirdPerson/bombel/bubblewsysanie.uasset",
+				"C:/Users/Maja/Documents/GitHub/Bubble/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Maja/Documents/GitHub/Bubble/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/MX/XDDSMNWQSS9T7PSFBDQLHN.uasset",
 				"D:/hackjam25/Bubble/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"D:/hackjam25/Bubble/Content/Crystal_cave/Maps/L_showcase_map_sharedassets/Dirt_LayerInfo.uasset",
 				"D:/hackjam25/Bubble/Content/Crystal_cave/Maps/L_showcase_map_sharedassets/Grass_LayerInfo.uasset",
@@ -17,12 +24,7 @@
 				"D:/hackjam25/Bubble/Content/Spiderweb_Collection/Maps/Demo_scene.umap",
 				"D:/hackjam25/Bubble/Content/StylizedRocksLite_JC/Maps/Overview.umap",
 				"D:/hackjam25/Bubble/Content/TokyoStylizedEnvironment/Maps/Assets_Overview.umap",
-				"D:/hackjam25/Bubble/Content/TokyoStylizedEnvironment/Maps/Tokyo.umap",
-				"C:/Users/Maja/Documents/Unreal Projects/hackjam2025/Content/StarterContent/Architecture/Floor_400x400.uasset",
-				"C:/Users/Maja/Documents/GitHub/Bubble/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
-				"C:/Users/Maja/Documents/GitHub/Bubble/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"C:/Users/Maja/Documents/GitHub/Bubble/Content/ThirdPerson/bombel/bubbleshot.uasset",
-				"C:/Users/Maja/Documents/GitHub/Bubble/Content/ThirdPerson/bombel/bubblewsysanie.uasset"
+				"D:/hackjam25/Bubble/Content/TokyoStylizedEnvironment/Maps/Tokyo.umap"
 			]
 		}
 	]
