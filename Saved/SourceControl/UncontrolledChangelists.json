@@ -5,6 +5,15 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Maja/Documents/Unreal Projects/hackjam2025/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Maja/Documents/GitHub/Bubble/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/Users/Maja/Documents/GitHub/Bubble/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Maja/Documents/GitHub/Bubble/Content/ThirdPerson/bombel/bubbleshot.uasset",
+				"C:/Users/Maja/Documents/GitHub/Bubble/Content/ThirdPerson/bombel/bubblewsysanie.uasset",
+				"C:/Users/Maja/Documents/GitHub/Bubble/Content/TokyoStylizedEnvironment/Materials/Foliage_Tree_Sakura/M_Sakura_Ground_Decal.uasset",
+				"C:/Users/Maja/Documents/GitHub/Bubble/Content/ThirdPerson/Blueprints/Opcja1.uasset",
+				"C:/Users/Maja/Documents/GitHub/Bubble/Content/TokyoStylizedEnvironment/Materials/Master_Materials/M_TilingMat.uasset",
+				"C:/Users/Maja/Documents/GitHub/Bubble/Content/TokyoStylizedEnvironment/Materials/Tile_Road_Asphalt/MI_RoadAsphalt_Green.uasset",
 				"C:/Users/DELL/Documents/GitHub/Bubble/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/DELL/Documents/GitHub/Bubble/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
 				"C:/Users/DELL/Documents/GitHub/Bubble/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
@@ -211,12 +220,7 @@
 				"D:/hackjam25/Bubble/Content/Spiderweb_Collection/Maps/Demo_scene.umap",
 				"D:/hackjam25/Bubble/Content/StylizedRocksLite_JC/Maps/Overview.umap",
 				"D:/hackjam25/Bubble/Content/TokyoStylizedEnvironment/Maps/Assets_Overview.umap",
-				"D:/hackjam25/Bubble/Content/TokyoStylizedEnvironment/Maps/Tokyo.umap",
-				"C:/Users/Maja/Documents/Unreal Projects/hackjam2025/Content/StarterContent/Architecture/Floor_400x400.uasset",
-				"C:/Users/Maja/Documents/GitHub/Bubble/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
-				"C:/Users/Maja/Documents/GitHub/Bubble/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"C:/Users/Maja/Documents/GitHub/Bubble/Content/ThirdPerson/bombel/bubbleshot.uasset",
-				"C:/Users/Maja/Documents/GitHub/Bubble/Content/ThirdPerson/bombel/bubblewsysanie.uasset"
+				"D:/hackjam25/Bubble/Content/TokyoStylizedEnvironment/Maps/Tokyo.umap"
 			]
 		}
 	]
