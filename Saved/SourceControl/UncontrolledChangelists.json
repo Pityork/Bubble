@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/patry/Documents/GitHub/Bubble/Content/ThirdPerson/Checkpoints.uasset",
+				"C:/Users/patry/Documents/GitHub/Bubble/Content/ThirdPerson/Checkpoint.uasset",
+				"C:/Users/patry/Documents/GitHub/Bubble/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/DELL/Documents/GitHub/Bubble 5.5/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/DELL/Documents/GitHub/Bubble 5.5/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
 				"D:/hackjam25/Bubble/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"D:/hackjam25/Bubble/Content/ThirdPerson/b_winda.uasset",
 				"D:/hackjam25/Bubble/Content/ThirdPerson/bp_guzikwinda.uasset",
@@ -25,6 +30,7 @@
 				"D:/hackjam25/Bubble/Content/Materials/M_Bubble_Inst.uasset",
 				"D:/hackjam25/Bubble/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/5D/TCIPRWPBFJNTTDOE7XEHP6.uasset",
 				"D:/hackjam25/Bubble/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/G1/K8HTQT2WB0ZD4IMWA9X26E.uasset",
+				"D:/hackjam25/Bubble/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/S9/GN990DGYBWJM58GGK0JEET.uasset",
 				"D:/hackjam25/Bubble/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/TZ/0C09PUWG8XPG32RH7BUXAR.uasset",
 				"D:/hackjam25/Bubble/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/YI/SZEF75PQ95W8KQT3EGMR46.uasset",
 				"D:/hackjam25/Bubble/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/4E/GMBA6FJ98R5B45EYH1FAOV.uasset",
@@ -60,6 +66,7 @@
 				"D:/hackjam25/Bubble/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/XD/G7YZNWM54FZCAFH9B5L01M.uasset",
 				"D:/hackjam25/Bubble/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/HH/B0QCLQHMJUGUT5WRYJOW1R.uasset",
 				"D:/hackjam25/Bubble/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/JS/OLUOMV1IJ21ZCVNZLU0YZ3.uasset",
+<<<<<<< HEAD
 				"D:/hackjam25/Bubble/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/1H/P3JEMXE1OOHXLTAUD376UL.uasset",
 				"D:/hackjam25/Bubble/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/4A/N9U7BGDX7NYQ99BJX1CGRG.uasset",
 				"D:/hackjam25/Bubble/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/VA/OGJ52G2SMCW0WOOUU1XLN8.uasset",
@@ -410,6 +417,8 @@
 				"C:/Users/DELL/Documents/GitHub/Bubble 5.5/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/DELL/Documents/GitHub/Bubble 5.5/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
 				"D:/hackjam25/Bubble/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/S9/GN990DGYBWJM58GGK0JEET.uasset",
+=======
+>>>>>>> 92a91f98d558a7e1b513ddb4cc5ab29e44facac8
 				"D:/hackjam25/Bubble/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/DG/17JOAV4J6ZUJZ1UT3FNPOX.uasset",
 				"D:/hackjam25/Bubble/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/MG/H90X3ZK73X176OZFK4H4SV.uasset",
 				"D:/hackjam25/Bubble/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/89/7CD3EXT0607F4URYWF9U83.uasset",
