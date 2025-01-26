@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/patry/Documents/GitHub/Bubble/Content/Materials/material_cute/HackJam_2025_Cute_Boy_DefaultMaterial_OcclusionRoughnessMetallic.uasset",
+				"C:/Users/patry/Documents/GitHub/Bubble/Content/Materials/material_cute/HackJam_2025_Cute_Boy_DefaultMaterial_Normal.uasset",
+				"C:/Users/patry/Documents/GitHub/Bubble/Content/Materials/material_cute/HackJam_2025_Cute_Boy_DefaultMaterial_Emissive.uasset",
+				"C:/Users/patry/Documents/GitHub/Bubble/Content/Materials/material_cute/HackJam_2025_Cute_Boy_DefaultMaterial_BaseColor.uasset",
+				"C:/Users/patry/Documents/GitHub/Bubble/Content/Materials/material_cute/cute_m1.uasset",
 				"D:/hackjam25/Bubble/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"D:/hackjam25/Bubble/Content/TokyoStylizedEnvironment/Meshes/Maglev_Train/SM_Maglev_Track05.uasset",
 				"D:/hackjam25/Bubble/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/FN/MB2BSIIG33HC6R6TAMQWPQ.uasset",
