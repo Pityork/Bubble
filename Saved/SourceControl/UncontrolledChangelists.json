@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Maja/Documents/GitHub/Bubble/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Maja/Documents/GitHub/Bubble/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Child.uasset",
+				"C:/Users/Maja/Documents/GitHub/Bubble/Content/imp/Anim/cute_bp.uasset",
+				"C:/Users/Maja/Documents/GitHub/Bubble/Content/ThirdPerson/Blueprints/opcja2_bpanim.uasset",
 				"D:/hackjam25/Bubble/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"D:/hackjam25/Bubble/Content/TokyoStylizedEnvironment/Meshes/Maglev_Train/SM_Maglev_Track05.uasset",
 				"D:/hackjam25/Bubble/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/FN/MB2BSIIG33HC6R6TAMQWPQ.uasset",
