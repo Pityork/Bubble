@@ -2839,3 +2839,983 @@ Sampler Limit: 32
 [2025.01.26-10.54.12:167][292]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2429.992920
 [2025.01.26-10.54.13:168][295]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.01.26-10.54.13:168][295]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2430.659668, Update Interval: 321.563171
+[2025.01.26-10.59.20:468][832]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2025.01.26-10.59.20:469][832]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2025.01.26-10.59.20:472][832]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_FC5CEE9A2768474602_1856698918
+[2025.01.26-10.59.20:473][832]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_FC5CEE9A2768474602_1856698918
+[2025.01.26-10.59.51:378][346]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.01.26-10.59.51:381][346]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/VY/395520XNQN7FINH7KXS355_Auto3
+[2025.01.26-10.59.51:382][346]LogSavePackage: Moving 'D:/hackjam25/Bubble/Saved/395520XNQN7FINH7KXS355_Auto38FF060314985AA4978C7689F8695C8A6.tmp' to 'D:/hackjam25/Bubble/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/VY/395520XNQN7FINH7KXS355_Auto3.uasset'
+[2025.01.26-10.59.51:382][346]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.037
+[2025.01.26-10.59.51:382][346]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.037
+[2025.01.26-11.00.00:888][563]LogStreaming: Display: FlushAsyncLoading(2255): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.26-11.00.00:899][563]LogInterchangeEngine: [Pending] Importing
+[2025.01.26-11.00.00:899][563]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Admin/Downloads/Untitled.png]
+[2025.01.26-11.00.01:573][566]LogStreaming: Display: FlushAsyncLoading(2256): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.26-11.00.01:584][566]LogInterchangeImport: Display: Auto-detected grayscale, image changed to G8
+[2025.01.26-11.00.01:893][567]LogTexture: Display: Building textures: /Game/Materials/Untitled.Untitled (TFO_AutoDXT, 1920x1080 x1x1x1) (Required Memory Estimate: 237.510742 MB), EncodeSpeed: Fast
+[2025.01.26-11.00.02:239][567]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Admin/Downloads/Untitled.png]
+[2025.01.26-11.00.02:249][567]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.01.26-11.00.02:249][567]LogInterchangeEngine: [Success] Import Done
+[2025.01.26-11.00.04:954][641]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2782.780273
+[2025.01.26-11.00.05:118][651]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.26-11.00.05:118][651]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2782.928223, Update Interval: 314.017151
+[2025.01.26-11.00.09:311][888]LogContentBrowser: Deferred new asset file creation: NewMaterial1
+[2025.01.26-11.00.09:335][888]LogContentBrowser: Creating deferred item: NewMaterial1
+[2025.01.26-11.00.09:347][889]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial1).
+[2025.01.26-11.00.10:282][945]LogContentBrowser: Attempting asset rename: NewMaterial1 -> NewMaterial1
+[2025.01.26-11.00.10:282][945]LogContentBrowser: End creating deferred item NewMaterial1
+[2025.01.26-11.00.10:958][984]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/NewMaterial1.NewMaterial1
+[2025.01.26-11.00.10:961][984]LogChaosDD: Creating Chaos Debug Draw Scene for world World_17
+[2025.01.26-11.00.11:223][984]MaterialEditorStats: Texture samplers: 0/16
+[2025.01.26-11.00.11:223][984]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.01.26-11.00.11:223][984]MaterialEditorStats: Shader Count: 0
+[2025.01.26-11.00.11:223][984]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.01.26-11.00.11:284][986]MaterialEditorStats: Base pass shader: 202 instructions
+Stats: Resources Used: 6
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2025.01.26-11.00.11:284][986]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.01.26-11.00.11:284][986]MaterialEditorStats: Texture samplers: 2/16
+[2025.01.26-11.00.11:284][986]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.01.26-11.00.11:284][986]MaterialEditorStats: Shader Count: 4
+[2025.01.26-11.00.11:284][986]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.01.26-11.00.15:688][243]MaterialEditorStats: Texture samplers: 0/16
+[2025.01.26-11.00.15:688][243]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.01.26-11.00.15:688][243]MaterialEditorStats: Shader Count: 0
+[2025.01.26-11.00.15:688][243]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.01.26-11.00.15:752][245]MaterialEditorStats: Base pass shader: 202 instructions
+Stats: Resources Used: 6
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2025.01.26-11.00.15:752][245]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.01.26-11.00.15:752][245]MaterialEditorStats: Texture samplers: 2/16
+[2025.01.26-11.00.15:752][245]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.01.26-11.00.15:752][245]MaterialEditorStats: Shader Count: 4
+[2025.01.26-11.00.15:752][245]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.01.26-11.00.16:903][310]MaterialEditorStats: Texture samplers: 0/16
+[2025.01.26-11.00.16:903][310]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.01.26-11.00.16:903][310]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.01.26-11.00.16:903][310]MaterialEditorStats: Shader Count: 0
+[2025.01.26-11.00.16:903][310]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.01.26-11.00.18:565][410]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.01.26-11.00.18:565][410]MaterialEditorStats: Texture samplers: 1/16
+[2025.01.26-11.00.18:565][410]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.01.26-11.00.18:565][410]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.01.26-11.00.18:565][410]MaterialEditorStats: Shader Count: 3
+[2025.01.26-11.00.18:565][410]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.01.26-11.00.18:765][422]MaterialEditorStats: Base pass shader: 209 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 3
+Sampler Limit: 32
+
+[2025.01.26-11.00.18:765][422]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.01.26-11.00.18:765][422]MaterialEditorStats: Texture samplers: 3/16
+[2025.01.26-11.00.18:765][422]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.01.26-11.00.18:765][422]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.01.26-11.00.18:765][422]MaterialEditorStats: Shader Count: 4
+[2025.01.26-11.00.18:765][422]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.01.26-11.00.19:708][477]MaterialEditorStats: Texture samplers: 0/16
+[2025.01.26-11.00.19:708][477]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.01.26-11.00.19:708][477]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.01.26-11.00.19:708][477]MaterialEditorStats: Shader Count: 0
+[2025.01.26-11.00.19:708][477]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.01.26-11.00.19:757][480]MaterialEditorStats: Base pass shader: 209 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 3
+Sampler Limit: 32
+
+[2025.01.26-11.00.19:757][480]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.01.26-11.00.19:757][480]MaterialEditorStats: Texture samplers: 3/16
+[2025.01.26-11.00.19:757][480]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.01.26-11.00.19:757][480]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.01.26-11.00.19:757][480]MaterialEditorStats: Shader Count: 4
+[2025.01.26-11.00.19:757][480]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.01.26-11.00.26:213][818]MaterialEditorStats: Texture samplers: 0/16
+[2025.01.26-11.00.26:213][818]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.01.26-11.00.26:213][818]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.01.26-11.00.26:213][818]MaterialEditorStats: Shader Count: 0
+[2025.01.26-11.00.26:213][818]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.01.26-11.00.26:736][849]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.01.26-11.00.26:736][849]MaterialEditorStats: Texture samplers: 1/16
+[2025.01.26-11.00.26:736][849]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.01.26-11.00.26:736][849]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.01.26-11.00.26:736][849]MaterialEditorStats: Shader Count: 3
+[2025.01.26-11.00.26:736][849]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.01.26-11.00.26:835][855]MaterialEditorStats: Base pass shader: 202 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 3
+Sampler Limit: 32
+
+[2025.01.26-11.00.26:836][855]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.01.26-11.00.26:836][855]MaterialEditorStats: Texture samplers: 3/16
+[2025.01.26-11.00.26:836][855]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.01.26-11.00.26:836][855]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.01.26-11.00.26:836][855]MaterialEditorStats: Shader Count: 4
+[2025.01.26-11.00.26:836][855]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.01.26-11.00.35:395][365]MaterialEditorStats: Texture samplers: 0/16
+[2025.01.26-11.00.35:395][365]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.01.26-11.00.35:395][365]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.01.26-11.00.35:395][365]MaterialEditorStats: Shader Count: 0
+[2025.01.26-11.00.35:395][365]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.01.26-11.00.35:906][395]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.01.26-11.00.35:906][395]MaterialEditorStats: Texture samplers: 1/16
+[2025.01.26-11.00.35:906][395]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.01.26-11.00.35:906][395]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.01.26-11.00.35:906][395]MaterialEditorStats: Shader Count: 3
+[2025.01.26-11.00.35:906][395]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.01.26-11.00.36:013][401]MaterialEditorStats: Base pass shader: 201 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 3
+Sampler Limit: 32
+
+[2025.01.26-11.00.36:013][401]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.01.26-11.00.36:013][401]MaterialEditorStats: Texture samplers: 3/16
+[2025.01.26-11.00.36:013][401]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.01.26-11.00.36:013][401]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.01.26-11.00.36:013][401]MaterialEditorStats: Shader Count: 4
+[2025.01.26-11.00.36:013][401]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.01.26-11.00.37:262][474]LogMaterialEditor: Saving and Compiling material NewMaterial1
+[2025.01.26-11.00.37:368][474]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.01.26-11.00.38:447][474]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.01.26-11.00.38:463][474]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.26-11.00.38:492][474]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/NewMaterial1] ([1] browsable assets)...
+[2025.01.26-11.00.38:502][474]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/NewMaterial1.NewMaterial1]
+[2025.01.26-11.00.38:502][474]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/NewMaterial1]
+[2025.01.26-11.00.38:502][474]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/NewMaterial1" FILE="D:/hackjam25/Bubble/Content/Materials/NewMaterial1.uasset" SILENT=true
+[2025.01.26-11.00.38:503][474]LogSavePackage: Moving output files for package: /Game/Materials/NewMaterial1
+[2025.01.26-11.00.38:504][474]LogSavePackage: Moving 'D:/hackjam25/Bubble/Saved/NewMaterial1C70996594224CA549A62ECBD084D28E0.tmp' to 'D:/hackjam25/Bubble/Content/Materials/NewMaterial1.uasset'
+[2025.01.26-11.00.38:515][474]LogFileHelpers: InternalPromptForCheckoutAndSave took 51.814 ms (total: 7.95 sec)
+[2025.01.26-11.00.38:549][474]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.26-11.00.38:549][474]LogContentValidation: Enabled validators:
+[2025.01.26-11.00.38:549][474]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.26-11.00.38:549][474]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.26-11.00.38:549][474]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.26-11.00.38:549][474]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.26-11.00.38:549][474]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.26-11.00.38:549][474]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.26-11.00.38:549][474]AssetCheck: /Game/Materials/NewMaterial1 Validating asset
+[2025.01.26-11.00.38:558][474]MaterialEditorStats: Base pass shader: 201 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 3
+Sampler Limit: 32
+
+[2025.01.26-11.00.38:558][474]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.01.26-11.00.38:558][474]MaterialEditorStats: MaxSampler: 246 instructions
+Stats: Resources Used: 10
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2025.01.26-11.00.38:558][474]MaterialEditorStats: Texture samplers: 4/16
+[2025.01.26-11.00.38:558][474]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.01.26-11.00.38:558][474]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.01.26-11.00.38:558][474]MaterialEditorStats: Shader Count: 16
+[2025.01.26-11.00.38:558][474]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.01.26-11.01.45:019][300]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SpotLight
+[2025.01.26-11.01.45:019][300]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SpotLight
+[2025.01.26-11.01.49:937][578]LogShaderCompilers: Display: ================================================
+[2025.01.26-11.01.49:937][578]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.01.26-11.01.49:937][578]LogShaderCompilers: Display: Total job queries 664, among them cache hits 190 (28.61%), DDC hits 327 (49.25%), Duplicates 28 (4.22%)
+[2025.01.26-11.01.49:937][578]LogShaderCompilers: Display: Tracking 446 distinct input hashes that result in 349 distinct outputs (78.25%)
+[2025.01.26-11.01.49:937][578]LogShaderCompilers: Display: RAM used: 194.57 KiB of 3.20 GiB budget. Usage: 0.01%
+[2025.01.26-11.01.49:937][578]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.01.26-11.01.49:937][578]LogShaderCompilers: Display: Shaders Compiled: 119
+[2025.01.26-11.01.49:937][578]LogShaderCompilers: Display: Jobs assigned 119, completed 119 (100%)
+[2025.01.26-11.01.49:937][578]LogShaderCompilers: Display: Average time worker was idle: 176.02 s
+[2025.01.26-11.01.49:937][578]LogShaderCompilers: Display: Time job spent in pending queue: average 0.13 s, longest 1.04 s
+[2025.01.26-11.01.49:937][578]LogShaderCompilers: Display: Job execution time: average 1.24 s, max 3.00 s
+[2025.01.26-11.01.49:937][578]LogShaderCompilers: Display: Job life time (pending + execution): average 1.37 s, max 3.11
+[2025.01.26-11.01.49:937][578]LogShaderCompilers: Display: Shader code size: average 8.692 KiB, min 3.395 KiB, max 12.727 KiB
+[2025.01.26-11.01.49:937][578]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 21.72 s
+[2025.01.26-11.01.49:937][578]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.01.26-11.01.49:937][578]LogShaderCompilers: Display: Jobs were issued in 119 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.01.26-11.01.49:937][578]LogShaderCompilers: Display: Average processing rate: 5.48 jobs/sec
+[2025.01.26-11.01.49:937][578]LogShaderCompilers: Display: Total thread time: 69.483 s
+[2025.01.26-11.01.49:937][578]LogShaderCompilers: Display: Total thread preprocess time: 11.463 s
+[2025.01.26-11.01.49:937][578]LogShaderCompilers: Display: Percentage time preprocessing: 16.50%
+[2025.01.26-11.01.49:937][578]LogShaderCompilers: Display: Effective parallelization: 3.20 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2025.01.26-11.01.49:937][578]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.01.26-11.01.49:937][578]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    5 times, average 1.27 sec, max 2.10 sec, min 0.75 sec)
+[2025.01.26-11.01.49:937][578]LogShaderCompilers: Display:                                                  FVelocityVS (compiled    1 times, average 0.71 sec, max 0.71 sec, min 0.71 sec)
+[2025.01.26-11.01.49:937][578]LogShaderCompilers: Display:             TBasePassPSFSelfShadowedVolumetricLightmapPolicy (compiled    3 times, average 0.71 sec, max 0.89 sec, min 0.51 sec)
+[2025.01.26-11.01.49:937][578]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    5 times, average 0.71 sec, max 0.99 sec, min 0.33 sec)
+[2025.01.26-11.01.49:937][578]LogShaderCompilers: Display:    TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicy (compiled    3 times, average 0.70 sec, max 0.92 sec, min 0.49 sec)
+[2025.01.26-11.01.49:937][578]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.01.26-11.01.49:937][578]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 9.36% of total time (compiled   11 times, average 0.59 sec, max 0.92 sec, min 0.46 sec)
+[2025.01.26-11.01.49:937][578]LogShaderCompilers: Display:                                             FDebugViewModePS - 9.14% of total time (compiled    5 times, average 1.27 sec, max 2.10 sec, min 0.75 sec)
+[2025.01.26-11.01.49:937][578]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 5.11% of total time (compiled    5 times, average 0.71 sec, max 0.99 sec, min 0.33 sec)
+[2025.01.26-11.01.49:937][578]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 4.85% of total time (compiled    5 times, average 0.67 sec, max 0.98 sec, min 0.33 sec)
+[2025.01.26-11.01.49:937][578]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 4.80% of total time (compiled    5 times, average 0.67 sec, max 1.01 sec, min 0.33 sec)
+[2025.01.26-11.01.49:937][578]LogShaderCompilers: Display: === Material stats ===
+[2025.01.26-11.01.49:937][578]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.01.26-11.01.49:937][578]LogShaderCompilers: Display: Materials Translated:    236
+[2025.01.26-11.01.49:937][578]LogShaderCompilers: Display: Material Total Translate Time: 0.12 s
+[2025.01.26-11.01.49:937][578]LogShaderCompilers: Display: Material Translation Only: 0.05 s (44%)
+[2025.01.26-11.01.49:937][578]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.01.26-11.01.49:937][578]LogShaderCompilers: Display: Material Cache Hits: 29 (12%)
+[2025.01.26-11.01.49:937][578]LogShaderCompilers: Display: ================================================
+[2025.01.26-11.02.27:209][764]LogSlate: Window 'Color Picker' being destroyed
+[2025.01.26-11.03.11:937][307]Cmd: MODE ROTGRID=0
+[2025.01.26-11.03.26:100][114]Cmd: TRANSACTION UNDO
+[2025.01.26-11.03.26:100][114]LogEditorTransaction: Undo Rotate Elements
+[2025.01.26-11.03.27:342][165]Cmd: TRANSACTION REDO
+[2025.01.26-11.03.27:342][165]LogEditorTransaction: Redo Rotate Elements
+[2025.01.26-11.03.51:325][552]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TextRenderActor
+[2025.01.26-11.03.51:325][552]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TextRenderActor
+[2025.01.26-11.03.51:330][552]LogActorFactory: Actor Factory spawned Class /Script/Engine.TextRenderActor as actor: TextRenderActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.TextRenderActor_UAID_FC5CEE9A2768474602_2127555922
+[2025.01.26-11.03.51:330][552]LogActorFactory: Actor Factory spawned Class /Script/Engine.TextRenderActor as actor: TextRenderActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.TextRenderActor_UAID_FC5CEE9A2768474602_2127555922
+[2025.01.26-11.03.56:218][825]LogSlate: Window 'Color Picker' being destroyed
+[2025.01.26-11.04.10:032][631]Cmd: ACTOR HIDE SELECTED
+[2025.01.26-11.04.10:786][675]Cmd: TRANSACTION UNDO
+[2025.01.26-11.04.10:786][675]LogEditorTransaction: Undo Hide Selected
+[2025.01.26-11.04.14:533][884]Cmd: TRANSACTION UNDO
+[2025.01.26-11.04.14:533][884]LogEditorTransaction: Undo Edit Text
+[2025.01.26-11.04.36:256][131]LogSlate: Window 'Color Picker' being destroyed
+[2025.01.26-11.04.45:904][677]Cmd: TRANSACTION UNDO
+[2025.01.26-11.04.45:904][677]LogEditorTransaction: Undo Rotate Elements
+[2025.01.26-11.04.46:851][723]Cmd: MODE ROTGRID=1
+[2025.01.26-11.04.51:233][982]LogRenderer: Warning: [VSM] Non-Nanite Marking Job Queue overflow. Performance may be affected. This occurs when many non-nanite meshes cover a large area of the shadow map.
+[2025.01.26-11.05.12:297][172]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.01.26-11.05.12:297][172]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.01.26-11.05.12:329][172]LogWorldPartition: FSpatialHashSettings::UpdateSettings : UseAlignedGridLevels = 1, SnapNonAlignedGridLevelsToLowerLevels = 1, PlaceSmallActorsUsingLocation = 0, PlacePartitionActorsUsingLocation = 1
+[2025.01.26-11.05.12:339][172]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 41.918 ms (total: 157.188 ms)
+[2025.01.26-11.05.12:339][172]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.26-11.05.12:366][172]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.01.26-11.05.12:463][172]LogPlayLevel: PIE: StaticDuplicateObject took: (0.096396s)
+[2025.01.26-11.05.12:463][172]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.096445s)
+[2025.01.26-11.05.12:490][172]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.01.26-11.05.12:491][172]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.01.26-11.05.12:493][172]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.01.26-11.05.12:493][172]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.01.26-11.05.12:493][172]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.01.26-11.05.12:493][172]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.01.26-11.05.12:524][172]LogWorldPartition: Display: WorldPartition initialize took 31.253 ms (total: 921.204 ms)
+[2025.01.26-11.05.12:524][172]LogPlayLevel: PIE: World Init took: (0.033110s)
+[2025.01.26-11.05.12:525][172]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.01.26-11.05.12:525][172]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.26-11.05.12:525][172]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.26-11.05.12:525][172]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.26-11.05.12:525][172]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.26-11.05.12:525][172]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.01.26-11.05.12:525][172]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.26-11.05.12:525][172]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.01.26-11.05.12:525][172]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.26-11.05.12:525][172]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.26-11.05.12:525][172]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.26-11.05.12:525][172]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.26-11.05.12:527][172]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.26-11.05.12:553][172]LogAudioMixer: Display: Using Audio Hardware Device S24C750 (NVIDIA High Definition Audio)
+[2025.01.26-11.05.12:553][172]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.26-11.05.12:553][172]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.26-11.05.12:553][172]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.26-11.05.12:554][172]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.01.26-11.05.12:554][172]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2025.01.26-11.05.12:556][172]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.01.26-11.05.12:556][172]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2025.01.26-11.05.12:556][172]LogInit: FAudioDevice initialized with ID 5.
+[2025.01.26-11.05.12:556][172]LogAudio: Display: Audio Device (ID: 5) registered with world 'ThirdPersonMap'.
+[2025.01.26-11.05.12:556][172]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2025.01.26-11.05.12:558][172]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.01.26-11.05.12:602][172]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2025.01.26-12.05.12
+[2025.01.26-11.05.12:605][172]LogWorld: Bringing up level for play took: 0.046232
+[2025.01.26-11.05.12:608][172]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2025.01.26-11.05.12:616][172]PIE: Server logged in
+[2025.01.26-11.05.12:616][172]PIE: Play in editor total start time 0.32 seconds.
+[2025.01.26-11.05.15:947][362]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.26-11.05.15:947][362]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.01.26-11.05.15:948][362]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-11.05.15:964][362]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-11.05.15:965][362]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.01.26-11.05.15:968][362]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.26-11.05.15:972][362]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-11.05.15:996][362]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.01.26-11.05.15:996][362]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2025.01.26-11.05.15:996][362]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.01.26-11.05.15:999][362]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.01.26-11.05.16:003][362]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.26-11.05.16:014][362]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.01.26-11.05.16:073][363]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2025.01.26-11.05.28:226][ 43]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.01.26-11.05.28:228][ 43]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.01.26-11.05.28:259][ 43]LogWorldPartition: FSpatialHashSettings::UpdateSettings : UseAlignedGridLevels = 1, SnapNonAlignedGridLevelsToLowerLevels = 1, PlaceSmallActorsUsingLocation = 0, PlacePartitionActorsUsingLocation = 1
+[2025.01.26-11.05.28:268][ 43]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 41.173 ms (total: 198.362 ms)
+[2025.01.26-11.05.28:269][ 43]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.26-11.05.28:269][ 43]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.01.26-11.05.28:356][ 43]LogPlayLevel: PIE: StaticDuplicateObject took: (0.088254s)
+[2025.01.26-11.05.28:357][ 43]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.088292s)
+[2025.01.26-11.05.28:368][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.01.26-11.05.28:370][ 43]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.01.26-11.05.28:371][ 43]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.01.26-11.05.28:371][ 43]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.01.26-11.05.28:371][ 43]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.01.26-11.05.28:371][ 43]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.01.26-11.05.28:402][ 43]LogWorldPartition: Display: WorldPartition initialize took 30.261 ms (total: 951.465 ms)
+[2025.01.26-11.05.28:402][ 43]LogPlayLevel: PIE: World Init took: (0.031914s)
+[2025.01.26-11.05.28:402][ 43]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2025.01.26-11.05.28:402][ 43]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.26-11.05.28:402][ 43]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.26-11.05.28:402][ 43]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.26-11.05.28:402][ 43]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.26-11.05.28:402][ 43]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.01.26-11.05.28:402][ 43]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.26-11.05.28:402][ 43]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.01.26-11.05.28:402][ 43]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.26-11.05.28:402][ 43]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.26-11.05.28:402][ 43]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.26-11.05.28:402][ 43]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.26-11.05.28:405][ 43]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.26-11.05.28:426][ 43]LogAudioMixer: Display: Using Audio Hardware Device S24C750 (NVIDIA High Definition Audio)
+[2025.01.26-11.05.28:426][ 43]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.26-11.05.28:426][ 43]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.26-11.05.28:426][ 43]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.26-11.05.28:427][ 43]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2025.01.26-11.05.28:427][ 43]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2025.01.26-11.05.28:429][ 43]LogInit: FAudioDevice initialized with ID 6.
+[2025.01.26-11.05.28:429][ 43]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2025.01.26-11.05.28:429][ 43]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2025.01.26-11.05.28:429][ 43]LogAudio: Display: Audio Device (ID: 6) registered with world 'ThirdPersonMap'.
+[2025.01.26-11.05.28:429][ 43]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2025.01.26-11.05.28:431][ 43]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.01.26-11.05.28:478][ 43]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2025.01.26-12.05.28
+[2025.01.26-11.05.28:482][ 43]LogWorld: Bringing up level for play took: 0.049389
+[2025.01.26-11.05.28:484][ 43]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2025.01.26-11.05.28:493][ 43]PIE: Server logged in
+[2025.01.26-11.05.28:494][ 43]PIE: Play in editor total start time 0.266 seconds.
+[2025.01.26-11.05.44:287][983]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.26-11.05.44:287][983]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.01.26-11.05.44:288][983]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-11.05.44:304][983]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-11.05.44:305][983]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.01.26-11.05.44:310][983]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.26-11.05.44:314][983]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-11.05.44:332][983]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.26-11.05.44:338][983]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2025.01.26-11.05.44:338][983]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2025.01.26-11.05.44:340][983]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2025.01.26-11.05.44:356][983]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.01.26-11.05.44:415][984]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2025.01.26-11.06.02:345][959]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3140.163574
+[2025.01.26-11.06.02:515][968]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.26-11.06.02:515][968]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3140.316406, Update Interval: 318.133484
+[2025.01.26-11.06.29:081][466]Cmd: MODE ROTGRID=0
+[2025.01.26-11.07.19:812][372]LogSlate: Window 'Color Picker' being destroyed
+[2025.01.26-11.07.31:491][ 37]Cmd: TRANSACTION UNDO
+[2025.01.26-11.07.31:491][ 37]LogEditorTransaction: Undo Move Elements
+[2025.01.26-11.07.32:047][ 51]Cmd: TRANSACTION UNDO
+[2025.01.26-11.07.32:047][ 51]LogEditorTransaction: Undo Rotate Elements
+[2025.01.26-11.07.58:804][588]Cmd: TRANSACTION UNDO
+[2025.01.26-11.07.58:804][588]LogEditorTransaction: Undo Rotate Elements
+[2025.01.26-11.07.59:498][619]Cmd: MODE ROTGRID=1
+[2025.01.26-11.09.19:723][180]Cmd: MODE GRID=1
+[2025.01.26-11.10.08:060][922]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.01.26-11.10.08:067][922]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.26-11.10.08:097][922]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/AJ/FV0Z4VOEF895IGHO6UB003
+[2025.01.26-11.10.08:097][922]LogSavePackage: Moving 'D:/hackjam25/Bubble/Saved/FV0Z4VOEF895IGHO6UB003BDC538E844B3E4AD55B0CDB2B89F939E.tmp' to 'D:/hackjam25/Bubble/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/AJ/FV0Z4VOEF895IGHO6UB003.uasset'
+[2025.01.26-11.10.08:098][922]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/OO/XB7TDX1OMQM72REF92PT48
+[2025.01.26-11.10.08:098][922]LogSavePackage: Moving 'D:/hackjam25/Bubble/Saved/XB7TDX1OMQM72REF92PT487C6412914E45C488D4086BB7DBEE743F.tmp' to 'D:/hackjam25/Bubble/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/OO/XB7TDX1OMQM72REF92PT48.uasset'
+[2025.01.26-11.10.08:100][922]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/VY/395520XNQN7FINH7KXS355
+[2025.01.26-11.10.08:100][922]LogSavePackage: Moving 'D:/hackjam25/Bubble/Saved/395520XNQN7FINH7KXS355CD8A6ADD4D736D62F97974A5E42BF1AB.tmp' to 'D:/hackjam25/Bubble/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/VY/395520XNQN7FINH7KXS355.uasset'
+[2025.01.26-11.10.08:101][922]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/GR/IUFCX2YTUXI8MORMSA10KT
+[2025.01.26-11.10.08:101][922]LogSavePackage: Moving 'D:/hackjam25/Bubble/Saved/IUFCX2YTUXI8MORMSA10KTE98912F74053EB57F4E1DFB3ECB0897C.tmp' to 'D:/hackjam25/Bubble/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/GR/IUFCX2YTUXI8MORMSA10KT.uasset'
+[2025.01.26-11.10.08:102][922]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/ZS/97986DUDMUPUBLLB94HKBX
+[2025.01.26-11.10.08:102][922]LogSavePackage: Moving 'D:/hackjam25/Bubble/Saved/97986DUDMUPUBLLB94HKBXB39B7DDD4D97DBA21A14D88EDB68E04A.tmp' to 'D:/hackjam25/Bubble/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/ZS/97986DUDMUPUBLLB94HKBX.uasset'
+[2025.01.26-11.10.08:103][922]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/GJ/WP7P8C9X1ONMJMGOF0LVHC
+[2025.01.26-11.10.08:103][922]LogSavePackage: Moving 'D:/hackjam25/Bubble/Saved/WP7P8C9X1ONMJMGOF0LVHC0A6CD8934763D44EEEDA89839D566038.tmp' to 'D:/hackjam25/Bubble/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/GJ/WP7P8C9X1ONMJMGOF0LVHC.uasset'
+[2025.01.26-11.10.08:105][922]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/G1/AQAQU0FMNGRSQMSIYC723S
+[2025.01.26-11.10.08:105][922]LogSavePackage: Moving 'D:/hackjam25/Bubble/Saved/AQAQU0FMNGRSQMSIYC723S0AE661D546CBD0C4DC3801922C57A805.tmp' to 'D:/hackjam25/Bubble/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/G1/AQAQU0FMNGRSQMSIYC723S.uasset'
+[2025.01.26-11.10.08:106][922]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/4O/NK2UJW8B47VDZPCU3RGAEG
+[2025.01.26-11.10.08:106][922]LogSavePackage: Moving 'D:/hackjam25/Bubble/Saved/NK2UJW8B47VDZPCU3RGAEGC7F4568746C04269505EC8855E5F34F8.tmp' to 'D:/hackjam25/Bubble/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/4O/NK2UJW8B47VDZPCU3RGAEG.uasset'
+[2025.01.26-11.10.08:107][922]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/KN/Y4LU4YORS5DLQXJAU2UMJQ
+[2025.01.26-11.10.08:107][922]LogSavePackage: Moving 'D:/hackjam25/Bubble/Saved/Y4LU4YORS5DLQXJAU2UMJQABD59B8D48EC9E4FEFC7F5A90C2B6844.tmp' to 'D:/hackjam25/Bubble/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/KN/Y4LU4YORS5DLQXJAU2UMJQ.uasset'
+[2025.01.26-11.10.08:108][922]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/OV/HM39IP69SZ2D6ITMBI5339
+[2025.01.26-11.10.08:108][922]LogSavePackage: Moving 'D:/hackjam25/Bubble/Saved/HM39IP69SZ2D6ITMBI53390B4516AE457B82F160566C9217D4030F.tmp' to 'D:/hackjam25/Bubble/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/OV/HM39IP69SZ2D6ITMBI5339.uasset'
+[2025.01.26-11.10.08:110][922]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/02/YDVEPLOWRJ9NFZ18DPZVN7
+[2025.01.26-11.10.08:110][922]LogSavePackage: Moving 'D:/hackjam25/Bubble/Saved/YDVEPLOWRJ9NFZ18DPZVN7B24DB74B453DE0883A349B944B61F411.tmp' to 'D:/hackjam25/Bubble/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/02/YDVEPLOWRJ9NFZ18DPZVN7.uasset'
+[2025.01.26-11.10.08:111][922]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/IF/22SKU4TD0D4NUEKKJPBUWZ
+[2025.01.26-11.10.08:111][922]LogSavePackage: Moving 'D:/hackjam25/Bubble/Saved/22SKU4TD0D4NUEKKJPBUWZ81D233884905EE669EA49CA0A0376427.tmp' to 'D:/hackjam25/Bubble/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/IF/22SKU4TD0D4NUEKKJPBUWZ.uasset'
+[2025.01.26-11.10.08:112][922]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/VB/T7HJP541QO88A9FWV6Y89D
+[2025.01.26-11.10.08:112][922]LogSavePackage: Moving 'D:/hackjam25/Bubble/Saved/T7HJP541QO88A9FWV6Y89DA6B738404C894C4C95D0E3A7969B458F.tmp' to 'D:/hackjam25/Bubble/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/VB/T7HJP541QO88A9FWV6Y89D.uasset'
+[2025.01.26-11.10.08:113][922]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/GW/R9PYQ91WEQ8ZMQS5H7SW97
+[2025.01.26-11.10.08:113][922]LogSavePackage: Moving 'D:/hackjam25/Bubble/Saved/R9PYQ91WEQ8ZMQS5H7SW97939A76884989D7F0D37FCFBCCF660D91.tmp' to 'D:/hackjam25/Bubble/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/GW/R9PYQ91WEQ8ZMQS5H7SW97.uasset'
+[2025.01.26-11.10.08:114][922]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/GF/IU5LY6DMJ5ARFO3MPZ7UUF
+[2025.01.26-11.10.08:114][922]LogSavePackage: Moving 'D:/hackjam25/Bubble/Saved/IU5LY6DMJ5ARFO3MPZ7UUFB8D4B5724E1E45F222F0D1A4662901D3.tmp' to 'D:/hackjam25/Bubble/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/GF/IU5LY6DMJ5ARFO3MPZ7UUF.uasset'
+[2025.01.26-11.10.08:115][922]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/KW/LYY4WKCGWGJYRTHI2L8V8E
+[2025.01.26-11.10.08:115][922]LogSavePackage: Moving 'D:/hackjam25/Bubble/Saved/LYY4WKCGWGJYRTHI2L8V8E7424BF2C41DCA6FEC3D93EBB02A63EC5.tmp' to 'D:/hackjam25/Bubble/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/KW/LYY4WKCGWGJYRTHI2L8V8E.uasset'
+[2025.01.26-11.10.08:116][922]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/RJ/S34W55VJOADLL7LXNSM8R6
+[2025.01.26-11.10.08:116][922]LogSavePackage: Moving 'D:/hackjam25/Bubble/Saved/S34W55VJOADLL7LXNSM8R6C765B385498CCB5063D7F98983195C67.tmp' to 'D:/hackjam25/Bubble/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/RJ/S34W55VJOADLL7LXNSM8R6.uasset'
+[2025.01.26-11.10.08:117][922]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/Q0/R82JB2B2PJ3HNJ6S39V6CB
+[2025.01.26-11.10.08:117][922]LogSavePackage: Moving 'D:/hackjam25/Bubble/Saved/R82JB2B2PJ3HNJ6S39V6CBED81307A4007064EB1772196EF942218.tmp' to 'D:/hackjam25/Bubble/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/Q0/R82JB2B2PJ3HNJ6S39V6CB.uasset'
+[2025.01.26-11.10.08:118][922]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/FF/6382VI6M5GPM8I5OCHMBP9
+[2025.01.26-11.10.08:118][922]LogSavePackage: Moving 'D:/hackjam25/Bubble/Saved/6382VI6M5GPM8I5OCHMBP9B5430A4942F25E27B20A92B2E064E7A0.tmp' to 'D:/hackjam25/Bubble/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/FF/6382VI6M5GPM8I5OCHMBP9.uasset'
+[2025.01.26-11.10.08:120][922]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/G5/6KEQ2MBYLIIV4Z9AP77BC9
+[2025.01.26-11.10.08:120][922]LogSavePackage: Moving 'D:/hackjam25/Bubble/Saved/6KEQ2MBYLIIV4Z9AP77BC936CAF4A54F2862702BC8E7953D3725A5.tmp' to 'D:/hackjam25/Bubble/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/G5/6KEQ2MBYLIIV4Z9AP77BC9.uasset'
+[2025.01.26-11.10.08:121][922]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/0Y/RSAR8YSOXHO3L36OMR4Y3N
+[2025.01.26-11.10.08:121][922]LogSavePackage: Moving 'D:/hackjam25/Bubble/Saved/RSAR8YSOXHO3L36OMR4Y3N374F80DC4C37F8A5CD649A9112F6F6C2.tmp' to 'D:/hackjam25/Bubble/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/0Y/RSAR8YSOXHO3L36OMR4Y3N.uasset'
+[2025.01.26-11.10.08:122][922]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/8J/KDN26H7NSU7CCPBLN6BB9Z
+[2025.01.26-11.10.08:122][922]LogSavePackage: Moving 'D:/hackjam25/Bubble/Saved/KDN26H7NSU7CCPBLN6BB9ZAD948A6B454E488BE5AA15BCA72086ED.tmp' to 'D:/hackjam25/Bubble/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/8J/KDN26H7NSU7CCPBLN6BB9Z.uasset'
+[2025.01.26-11.10.08:123][922]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/PF/IMT7S5HU7BEZU26UGF25M2
+[2025.01.26-11.10.08:123][922]LogSavePackage: Moving 'D:/hackjam25/Bubble/Saved/IMT7S5HU7BEZU26UGF25M223E72B0841E91AC9DF4DD99FED66DA9C.tmp' to 'D:/hackjam25/Bubble/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/PF/IMT7S5HU7BEZU26UGF25M2.uasset'
+[2025.01.26-11.10.08:124][922]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/VN/QROU0ZVBRE5CV2LX9YQJ95
+[2025.01.26-11.10.08:124][922]LogSavePackage: Moving 'D:/hackjam25/Bubble/Saved/QROU0ZVBRE5CV2LX9YQJ95DCC089544F6A1654959D50A04748D5DA.tmp' to 'D:/hackjam25/Bubble/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/VN/QROU0ZVBRE5CV2LX9YQJ95.uasset'
+[2025.01.26-11.10.08:125][922]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/K1/4W7MLGD76136HEC3XGFVGK
+[2025.01.26-11.10.08:125][922]LogSavePackage: Moving 'D:/hackjam25/Bubble/Saved/4W7MLGD76136HEC3XGFVGK889857DA40D0975624937193D1E22E78.tmp' to 'D:/hackjam25/Bubble/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/K1/4W7MLGD76136HEC3XGFVGK.uasset'
+[2025.01.26-11.10.08:126][922]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/QW/KM7VJH7DOOOEECDYVC8Y3T
+[2025.01.26-11.10.08:126][922]LogSavePackage: Moving 'D:/hackjam25/Bubble/Saved/KM7VJH7DOOOEECDYVC8Y3T38D1FDAF4D7F997143FE59A6A85BB847.tmp' to 'D:/hackjam25/Bubble/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/QW/KM7VJH7DOOOEECDYVC8Y3T.uasset'
+[2025.01.26-11.10.08:127][922]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/I5/Y9MSJZ34KEVX1G9GK1A39M
+[2025.01.26-11.10.08:127][922]LogSavePackage: Moving 'D:/hackjam25/Bubble/Saved/Y9MSJZ34KEVX1G9GK1A39M03D88BBB4530B1B8E194C79D52575E5D.tmp' to 'D:/hackjam25/Bubble/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/I5/Y9MSJZ34KEVX1G9GK1A39M.uasset'
+[2025.01.26-11.10.08:128][922]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/2H/DYGSIZI3X5O5434HWECZS0
+[2025.01.26-11.10.08:128][922]LogSavePackage: Moving 'D:/hackjam25/Bubble/Saved/DYGSIZI3X5O5434HWECZS0A66D4AF14BEA7FA246CF258E39572D1D.tmp' to 'D:/hackjam25/Bubble/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/2H/DYGSIZI3X5O5434HWECZS0.uasset'
+[2025.01.26-11.10.08:129][922]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/Untitled] ([1] browsable assets)...
+[2025.01.26-11.10.08:131][922]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Materials/Untitled.Untitled]
+[2025.01.26-11.10.08:131][922]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Untitled]
+[2025.01.26-11.10.08:131][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Untitled" FILE="D:/hackjam25/Bubble/Content/Materials/Untitled.uasset" SILENT=true
+[2025.01.26-11.10.08:135][922]LogSavePackage: Moving output files for package: /Game/Materials/Untitled
+[2025.01.26-11.10.08:135][922]LogSavePackage: Moving 'D:/hackjam25/Bubble/Saved/UntitledB18F31724D06F41726C0C7BB2B001784.tmp' to 'D:/hackjam25/Bubble/Content/Materials/Untitled.uasset'
+[2025.01.26-11.10.08:144][922]LogFileHelpers: InternalPromptForCheckoutAndSave took 76.984 ms (total: 8.02 sec)
+[2025.01.26-11.10.08:173][922]LogContentValidation: Display: Starting to validate 29 assets
+[2025.01.26-11.10.08:173][922]LogContentValidation: Enabled validators:
+[2025.01.26-11.10.08:173][922]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.26-11.10.08:173][922]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.26-11.10.08:173][922]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.26-11.10.08:173][922]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.26-11.10.08:173][922]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.26-11.10.08:173][922]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.26-11.10.08:174][922]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Validating asset
+[2025.01.26-11.10.08:174][922]AssetCheck: /Game/Materials/Untitled Validating asset
+[2025.01.26-11.10.14:942][278]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.01.26-11.10.14:943][278]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.01.26-11.10.14:971][278]LogWorldPartition: FSpatialHashSettings::UpdateSettings : UseAlignedGridLevels = 1, SnapNonAlignedGridLevelsToLowerLevels = 1, PlaceSmallActorsUsingLocation = 0, PlacePartitionActorsUsingLocation = 1
+[2025.01.26-11.10.14:981][278]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 37.608 ms (total: 235.970 ms)
+[2025.01.26-11.10.14:981][278]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.26-11.10.14:981][278]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.01.26-11.10.15:069][278]LogPlayLevel: PIE: StaticDuplicateObject took: (0.088733s)
+[2025.01.26-11.10.15:069][278]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.088773s)
+[2025.01.26-11.10.15:082][278]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2025.01.26-11.10.15:084][278]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.01.26-11.10.15:086][278]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.01.26-11.10.15:086][278]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.01.26-11.10.15:086][278]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.01.26-11.10.15:086][278]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.01.26-11.10.15:117][278]LogWorldPartition: Display: WorldPartition initialize took 30.606 ms (total: 982.072 ms)
+[2025.01.26-11.10.15:117][278]LogPlayLevel: PIE: World Init took: (0.032735s)
+[2025.01.26-11.10.15:118][278]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2025.01.26-11.10.15:118][278]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.26-11.10.15:118][278]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.26-11.10.15:118][278]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.26-11.10.15:118][278]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.26-11.10.15:118][278]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.01.26-11.10.15:118][278]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.26-11.10.15:118][278]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.01.26-11.10.15:118][278]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.26-11.10.15:118][278]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.26-11.10.15:118][278]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.26-11.10.15:118][278]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.26-11.10.15:120][278]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.26-11.10.15:143][278]LogAudioMixer: Display: Using Audio Hardware Device S24C750 (NVIDIA High Definition Audio)
+[2025.01.26-11.10.15:143][278]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.26-11.10.15:143][278]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.26-11.10.15:143][278]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.26-11.10.15:144][278]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2025.01.26-11.10.15:144][278]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2025.01.26-11.10.15:146][278]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2025.01.26-11.10.15:146][278]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2025.01.26-11.10.15:146][278]LogInit: FAudioDevice initialized with ID 7.
+[2025.01.26-11.10.15:146][278]LogAudio: Display: Audio Device (ID: 7) registered with world 'ThirdPersonMap'.
+[2025.01.26-11.10.15:146][278]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2025.01.26-11.10.15:149][278]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.01.26-11.10.15:194][278]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2025.01.26-12.10.15
+[2025.01.26-11.10.15:198][278]LogWorld: Bringing up level for play took: 0.047960
+[2025.01.26-11.10.15:200][278]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2025.01.26-11.10.15:208][278]PIE: Server logged in
+[2025.01.26-11.10.15:209][278]PIE: Play in editor total start time 0.266 seconds.
+[2025.01.26-11.10.22:786][725]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.26-11.10.22:786][725]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.01.26-11.10.22:786][725]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-11.10.22:800][725]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-11.10.22:800][725]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.01.26-11.10.22:804][725]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.26-11.10.22:807][725]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-11.10.22:828][725]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.26-11.10.22:829][725]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2025.01.26-11.10.22:829][725]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.01.26-11.10.22:831][725]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.01.26-11.10.22:844][725]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.01.26-11.10.22:901][726]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2025.01.26-11.10.43:639][913]Cmd: TRANSACTION UNDO
+[2025.01.26-11.10.43:639][913]LogEditorTransaction: Undo Edit Source Radius
+[2025.01.26-11.10.51:111][340]Cmd: MODE ROTGRID=0
+[2025.01.26-11.10.55:464][582]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.01.26-11.10.55:464][582]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.01.26-11.10.55:495][582]LogWorldPartition: FSpatialHashSettings::UpdateSettings : UseAlignedGridLevels = 1, SnapNonAlignedGridLevelsToLowerLevels = 1, PlaceSmallActorsUsingLocation = 0, PlacePartitionActorsUsingLocation = 1
+[2025.01.26-11.10.55:504][582]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 39.946 ms (total: 275.917 ms)
+[2025.01.26-11.10.55:504][582]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.26-11.10.55:534][582]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.01.26-11.10.55:620][582]LogPlayLevel: PIE: StaticDuplicateObject took: (0.084864s)
+[2025.01.26-11.10.55:620][582]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.084907s)
+[2025.01.26-11.10.55:632][582]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.01.26-11.10.55:634][582]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.01.26-11.10.55:635][582]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.01.26-11.10.55:635][582]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.01.26-11.10.55:635][582]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.01.26-11.10.55:635][582]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.01.26-11.10.55:666][582]LogWorldPartition: Display: WorldPartition initialize took 31.506 ms (total: 1.01 sec)
+[2025.01.26-11.10.55:666][582]LogPlayLevel: PIE: World Init took: (0.033225s)
+[2025.01.26-11.10.55:667][582]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2025.01.26-11.10.55:667][582]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.26-11.10.55:667][582]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.26-11.10.55:667][582]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.26-11.10.55:667][582]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.26-11.10.55:667][582]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.01.26-11.10.55:667][582]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.26-11.10.55:667][582]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.01.26-11.10.55:667][582]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.26-11.10.55:667][582]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.26-11.10.55:667][582]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.26-11.10.55:667][582]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.26-11.10.55:669][582]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.26-11.10.55:691][582]LogAudioMixer: Display: Using Audio Hardware Device S24C750 (NVIDIA High Definition Audio)
+[2025.01.26-11.10.55:691][582]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.26-11.10.55:691][582]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.26-11.10.55:691][582]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.26-11.10.55:692][582]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2025.01.26-11.10.55:692][582]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2025.01.26-11.10.55:694][582]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2025.01.26-11.10.55:694][582]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2025.01.26-11.10.55:694][582]LogInit: FAudioDevice initialized with ID 8.
+[2025.01.26-11.10.55:694][582]LogAudio: Display: Audio Device (ID: 8) registered with world 'ThirdPersonMap'.
+[2025.01.26-11.10.55:694][582]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2025.01.26-11.10.55:697][582]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.01.26-11.10.55:742][582]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2025.01.26-12.10.55
+[2025.01.26-11.10.55:746][582]LogWorld: Bringing up level for play took: 0.048160
+[2025.01.26-11.10.55:748][582]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2025.01.26-11.10.55:756][582]PIE: Server logged in
+[2025.01.26-11.10.55:757][582]PIE: Play in editor total start time 0.293 seconds.
+[2025.01.26-11.11.09:126][377]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.26-11.11.09:127][377]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.01.26-11.11.09:127][377]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-11.11.09:145][377]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-11.11.09:146][377]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.01.26-11.11.09:150][377]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.26-11.11.09:156][377]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-11.11.09:177][377]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.26-11.11.09:184][377]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2025.01.26-11.11.09:184][377]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2025.01.26-11.11.09:186][377]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2025.01.26-11.11.09:202][377]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.01.26-11.11.09:267][378]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2025.01.26-11.11.25:899][332]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C
+[2025.01.26-11.11.25:899][332]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C
+[2025.01.26-11.11.25:903][332]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter as actor: BP_ThirdPersonCharacter_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2025.01.26-11.11.25:905][332]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter as actor: BP_ThirdPersonCharacter_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2025.01.26-11.11.25:909][332]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Child.BP_ThirdPersonCharacter_Child_C
+[2025.01.26-11.11.25:909][332]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Child.BP_ThirdPersonCharacter_Child_C
+[2025.01.26-11.11.25:912][332]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Child.BP_ThirdPersonCharacter_Child as actor: BP_ThirdPersonCharacter_Child_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonCharacter_Child_C_0
+[2025.01.26-11.11.25:915][332]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Child.BP_ThirdPersonCharacter_Child as actor: BP_ThirdPersonCharacter_Child_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonCharacter_Child_C_0
+[2025.01.26-11.11.26:688][353]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.01.26-11.11.26:691][353]LogEditorActor: Deleted 0 Actors (0.024 secs)
+[2025.01.26-11.11.26:709][353]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.01.26-11.11.26:710][353]LogEditorActor: Deleted 0 Actors (0.019 secs)
+[2025.01.26-11.11.26:718][353]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C
+[2025.01.26-11.11.26:718][353]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C
+[2025.01.26-11.11.26:724][353]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter as actor: BP_ThirdPersonCharacter_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonCharacter_C_UAID_FC5CEE9A2768484602_1509207121
+[2025.01.26-11.11.26:726][353]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter as actor: BP_ThirdPersonCharacter_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonCharacter_C_UAID_FC5CEE9A2768484602_1509207121
+[2025.01.26-11.11.26:730][353]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Child.BP_ThirdPersonCharacter_Child_C
+[2025.01.26-11.11.26:730][353]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Child.BP_ThirdPersonCharacter_Child_C
+[2025.01.26-11.11.26:734][353]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Child.BP_ThirdPersonCharacter_Child as actor: BP_ThirdPersonCharacter_Child_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonCharacter_Child_C_UAID_FC5CEE9A2768484602_1509219122
+[2025.01.26-11.11.26:736][353]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Child.BP_ThirdPersonCharacter_Child as actor: BP_ThirdPersonCharacter_Child_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonCharacter_Child_C_UAID_FC5CEE9A2768484602_1509219122
+[2025.01.26-11.11.38:235][822]LogChaosDD: Creating Chaos Debug Draw Scene for world World_18
+[2025.01.26-11.11.44:716][176]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2025.01.26-11.11.44:718][176]LogChaosDD: Creating Chaos Debug Draw Scene for world World_19
+[2025.01.26-11.11.44:763][176]LogStreaming: Display: FlushAsyncLoading(2257): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.26-11.11.53:698][572]Cmd: MODE GRID=0
+[2025.01.26-11.12.03:399][ 34]LogEditorTransaction: Undo Modify Component Scale
+[2025.01.26-11.12.04:926][ 95]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3502.730713
+[2025.01.26-11.12.05:116][104]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.26-11.12.05:116][104]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3502.897461, Update Interval: 358.824432
+[2025.01.26-11.12.15:058][541]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.01.26-11.12.15:868][566]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.26-11.12.15:920][566]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.01.26-11.12.15:927][566]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.01.26-11.12.15:927][566]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.01.26-11.12.15:927][566]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter" FILE="D:/hackjam25/Bubble/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset" SILENT=true
+[2025.01.26-11.12.15:946][566]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.01.26-11.12.15:946][566]LogSavePackage: Moving 'D:/hackjam25/Bubble/Saved/BP_ThirdPersonCharacter20E06F424BEFF4DC813FB1ACEBA1D53E.tmp' to 'D:/hackjam25/Bubble/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.01.26-11.12.15:954][566]LogFileHelpers: InternalPromptForCheckoutAndSave took 86.929 ms (total: 8.11 sec)
+[2025.01.26-11.12.15:987][566]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.26-11.12.15:987][566]LogContentValidation: Enabled validators:
+[2025.01.26-11.12.15:987][566]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.26-11.12.15:987][566]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.26-11.12.15:987][566]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.26-11.12.15:987][566]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.26-11.12.15:987][566]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.26-11.12.15:987][566]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.26-11.12.15:987][566]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2025.01.26-11.12.17:006][609]LogSlate: Window 'BP_ThirdPersonCharacter' being destroyed
+[2025.01.26-11.12.17:027][609]LogSlate: Window 'BP_ThirdPersonCharacter' being destroyed
+[2025.01.26-11.12.17:031][609]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-11.12.17:031][609]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-11.12.17:089][609]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.01.26-11.12.17:966][658]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.01.26-11.12.17:975][658]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.01.26-11.12.17:975][658]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.01.26-11.12.18:015][658]LogWorldPartition: FSpatialHashSettings::UpdateSettings : UseAlignedGridLevels = 1, SnapNonAlignedGridLevelsToLowerLevels = 1, PlaceSmallActorsUsingLocation = 0, PlacePartitionActorsUsingLocation = 1
+[2025.01.26-11.12.18:027][658]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 51.840 ms (total: 327.758 ms)
+[2025.01.26-11.12.18:027][658]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.26-11.12.18:028][658]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.01.26-11.12.18:139][658]LogPlayLevel: PIE: StaticDuplicateObject took: (0.111550s)
+[2025.01.26-11.12.18:139][658]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.111594s)
+[2025.01.26-11.12.18:160][658]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.01.26-11.12.18:161][658]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.01.26-11.12.18:163][658]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.01.26-11.12.18:163][658]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.01.26-11.12.18:163][658]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.01.26-11.12.18:163][658]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.01.26-11.12.18:200][658]LogWorldPartition: Display: WorldPartition initialize took 36.653 ms (total: 1.05 sec)
+[2025.01.26-11.12.18:200][658]LogPlayLevel: PIE: World Init took: (0.038700s)
+[2025.01.26-11.12.18:201][658]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2025.01.26-11.12.18:201][658]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.26-11.12.18:201][658]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.26-11.12.18:201][658]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.26-11.12.18:201][658]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.26-11.12.18:201][658]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.01.26-11.12.18:201][658]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.26-11.12.18:201][658]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.01.26-11.12.18:201][658]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.26-11.12.18:201][658]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.26-11.12.18:201][658]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.26-11.12.18:201][658]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.26-11.12.18:203][658]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.26-11.12.18:229][658]LogAudioMixer: Display: Using Audio Hardware Device S24C750 (NVIDIA High Definition Audio)
+[2025.01.26-11.12.18:229][658]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.26-11.12.18:230][658]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.26-11.12.18:230][658]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.26-11.12.18:230][658]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2025.01.26-11.12.18:230][658]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2025.01.26-11.12.18:233][658]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2025.01.26-11.12.18:233][658]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2025.01.26-11.12.18:233][658]LogInit: FAudioDevice initialized with ID 9.
+[2025.01.26-11.12.18:233][658]LogAudio: Display: Audio Device (ID: 9) registered with world 'ThirdPersonMap'.
+[2025.01.26-11.12.18:233][658]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2025.01.26-11.12.18:235][658]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.01.26-11.12.18:287][658]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2025.01.26-12.12.18
+[2025.01.26-11.12.18:294][658]LogWorld: Bringing up level for play took: 0.058527
+[2025.01.26-11.12.18:297][658]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2025.01.26-11.12.18:306][658]PIE: Server logged in
+[2025.01.26-11.12.18:307][658]PIE: Play in editor total start time 0.332 seconds.
+[2025.01.26-11.12.19:146][702]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.26-11.12.19:146][702]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.01.26-11.12.19:147][702]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-11.12.19:164][702]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-11.12.19:164][702]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.01.26-11.12.19:169][702]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.26-11.12.19:174][702]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-11.12.19:200][702]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.01.26-11.12.19:204][702]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2025.01.26-11.12.19:205][702]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2025.01.26-11.12.19:207][702]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2025.01.26-11.12.19:211][702]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.26-11.12.19:222][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.01.26-11.12.19:329][703]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2025.01.26-11.12.24:342][958]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.01.26-11.12.24:342][958]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.01.26-11.12.24:374][958]LogWorldPartition: FSpatialHashSettings::UpdateSettings : UseAlignedGridLevels = 1, SnapNonAlignedGridLevelsToLowerLevels = 1, PlaceSmallActorsUsingLocation = 0, PlacePartitionActorsUsingLocation = 1
+[2025.01.26-11.12.24:384][958]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 41.790 ms (total: 369.548 ms)
+[2025.01.26-11.12.24:384][958]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.26-11.12.24:384][958]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.01.26-11.12.24:476][958]LogPlayLevel: PIE: StaticDuplicateObject took: (0.092116s)
+[2025.01.26-11.12.24:476][958]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.092154s)
+[2025.01.26-11.12.24:492][958]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.01.26-11.12.24:495][958]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.01.26-11.12.24:497][958]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.01.26-11.12.24:497][958]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.01.26-11.12.24:497][958]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.01.26-11.12.24:497][958]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.01.26-11.12.24:529][958]LogWorldPartition: Display: WorldPartition initialize took 32.021 ms (total: 1.08 sec)
+[2025.01.26-11.12.24:529][958]LogPlayLevel: PIE: World Init took: (0.034029s)
+[2025.01.26-11.12.24:530][958]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2025.01.26-11.12.24:530][958]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.26-11.12.24:530][958]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.26-11.12.24:530][958]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.26-11.12.24:530][958]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.26-11.12.24:530][958]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.01.26-11.12.24:530][958]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.26-11.12.24:530][958]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.01.26-11.12.24:530][958]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.26-11.12.24:530][958]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.26-11.12.24:530][958]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.26-11.12.24:530][958]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.26-11.12.24:532][958]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.26-11.12.24:554][958]LogAudioMixer: Display: Using Audio Hardware Device S24C750 (NVIDIA High Definition Audio)
+[2025.01.26-11.12.24:554][958]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.26-11.12.24:554][958]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.26-11.12.24:554][958]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.26-11.12.24:554][958]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2025.01.26-11.12.24:554][958]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2025.01.26-11.12.24:557][958]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2025.01.26-11.12.24:557][958]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2025.01.26-11.12.24:557][958]LogInit: FAudioDevice initialized with ID 10.
+[2025.01.26-11.12.24:557][958]LogAudio: Display: Audio Device (ID: 10) registered with world 'ThirdPersonMap'.
+[2025.01.26-11.12.24:557][958]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2025.01.26-11.12.24:559][958]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.01.26-11.12.24:604][958]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2025.01.26-12.12.24
+[2025.01.26-11.12.24:608][958]LogWorld: Bringing up level for play took: 0.049321
+[2025.01.26-11.12.24:611][958]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2025.01.26-11.12.24:620][958]PIE: Server logged in
+[2025.01.26-11.12.24:620][958]PIE: Play in editor total start time 0.279 seconds.
+[2025.01.26-11.12.30:496][304]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.26-11.12.30:496][304]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.01.26-11.12.30:497][304]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-11.12.30:514][304]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-11.12.30:514][304]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.01.26-11.12.30:519][304]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.26-11.12.30:524][304]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-11.12.30:549][304]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.01.26-11.12.30:550][304]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2025.01.26-11.12.30:550][304]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2025.01.26-11.12.30:552][304]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2025.01.26-11.12.30:557][304]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.26-11.12.30:567][304]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.01.26-11.12.30:629][305]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2025.01.26-11.12.36:232][568]Cmd: DELETE
+[2025.01.26-11.12.36:232][568]Cmd: ACTOR DELETE
+[2025.01.26-11.12.36:242][568]LogEditorActor: Deleted Actor: BP_ThirdPersonCharacter_C
+[2025.01.26-11.12.36:259][568]LogEditorActor: Deleted Actor: BP_ThirdPersonCharacter_Child_C
+[2025.01.26-11.12.36:289][568]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.01.26-11.12.36:291][568]LogEditorActor: Deleted 2 Actors (0.059 secs)
+[2025.01.26-11.12.37:421][634]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.01.26-11.12.37:428][634]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.26-11.12.37:454][634]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/GR/IUFCX2YTUXI8MORMSA10KT
+[2025.01.26-11.12.37:455][634]LogSavePackage: Moving 'D:/hackjam25/Bubble/Saved/IUFCX2YTUXI8MORMSA10KTF5AB706849C796295EA35ABF5AD7B076.tmp' to 'D:/hackjam25/Bubble/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/GR/IUFCX2YTUXI8MORMSA10KT.uasset'
+[2025.01.26-11.12.37:456][634]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/13/32MGD0XOOS08WKRQ9RON7G
+[2025.01.26-11.12.37:456][634]LogSavePackage: Moving 'D:/hackjam25/Bubble/Saved/32MGD0XOOS08WKRQ9RON7GF127D8DC41B3565AD22245B3A68139DD.tmp' to 'D:/hackjam25/Bubble/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/13/32MGD0XOOS08WKRQ9RON7G.uasset'
+[2025.01.26-11.12.37:471][634]LogFileHelpers: InternalPromptForCheckoutAndSave took 44.165 ms (total: 8.15 sec)
+[2025.01.26-11.12.37:503][634]LogContentValidation: Display: Starting to validate 2 assets
+[2025.01.26-11.12.37:503][634]LogContentValidation: Enabled validators:
+[2025.01.26-11.12.37:503][634]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.26-11.12.37:503][634]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.26-11.12.37:503][634]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.26-11.12.37:503][634]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.26-11.12.37:503][634]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.26-11.12.37:503][634]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.26-11.12.37:503][634]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Validating asset
+[2025.01.26-11.13.07:882][387]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.01.26-11.13.07:888][387]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.26-11.13.07:927][387]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/R1/TS5OQ5CRUWFZYL1ZQ7I416
+[2025.01.26-11.13.07:927][387]LogSavePackage: Moving 'D:/hackjam25/Bubble/Saved/TS5OQ5CRUWFZYL1ZQ7I41678678FFB4DBDF6A50E6CD19C83603C2D.tmp' to 'D:/hackjam25/Bubble/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/R1/TS5OQ5CRUWFZYL1ZQ7I416.uasset'
+[2025.01.26-11.13.07:928][387]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/QW/KM7VJH7DOOOEECDYVC8Y3T
+[2025.01.26-11.13.07:928][387]LogSavePackage: Moving 'D:/hackjam25/Bubble/Saved/KM7VJH7DOOOEECDYVC8Y3T9C83AABC4D718D2C8AC7A7B551C8EB0E.tmp' to 'D:/hackjam25/Bubble/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/QW/KM7VJH7DOOOEECDYVC8Y3T.uasset'
+[2025.01.26-11.13.07:929][387]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/I5/Y9MSJZ34KEVX1G9GK1A39M
+[2025.01.26-11.13.07:929][387]LogSavePackage: Moving 'D:/hackjam25/Bubble/Saved/Y9MSJZ34KEVX1G9GK1A39M5918C5CB486C268747149A9811E4C8FB.tmp' to 'D:/hackjam25/Bubble/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/I5/Y9MSJZ34KEVX1G9GK1A39M.uasset'
+[2025.01.26-11.13.07:931][387]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/2H/DYGSIZI3X5O5434HWECZS0
+[2025.01.26-11.13.07:931][387]LogSavePackage: Moving 'D:/hackjam25/Bubble/Saved/DYGSIZI3X5O5434HWECZS0BFD9EDEF4D3A03556370068E0600CBA1.tmp' to 'D:/hackjam25/Bubble/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/2H/DYGSIZI3X5O5434HWECZS0.uasset'
+[2025.01.26-11.13.07:932][387]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/13/32MGD0XOOS08WKRQ9RON7G
+[2025.01.26-11.13.07:932][387]LogSavePackage: Moving 'D:/hackjam25/Bubble/Saved/32MGD0XOOS08WKRQ9RON7G0AE3E949434E3831C3283BAD7725962C.tmp' to 'D:/hackjam25/Bubble/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/13/32MGD0XOOS08WKRQ9RON7G.uasset'
+[2025.01.26-11.13.07:944][387]LogFileHelpers: InternalPromptForCheckoutAndSave took 56.604 ms (total: 8.21 sec)
+[2025.01.26-11.13.07:970][387]LogContentValidation: Display: Starting to validate 5 assets
+[2025.01.26-11.13.07:970][387]LogContentValidation: Enabled validators:
+[2025.01.26-11.13.07:970][387]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.26-11.13.07:970][387]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.26-11.13.07:970][387]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.26-11.13.07:970][387]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.26-11.13.07:970][387]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.26-11.13.07:970][387]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.26-11.13.07:970][387]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Validating asset
+[2025.01.26-11.13.13:195][558]LogSlate: Window 'Message' being destroyed
+[2025.01.26-11.13.13:243][558]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Materials/M_Decal_intro_2.M_Decal_intro_2
+(Selecting 'No' will cause all changes to be lost!)
+[2025.01.26-11.13.13:335][558]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.01.26-11.13.13:406][558]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.01.26-11.13.13:435][558]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.01.26-11.13.14:365][558]LogSlate: Window 'Save Content' being destroyed
+[2025.01.26-11.13.14:408][558]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.26-11.13.14:439][558]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/M_Decal_intro_2] ([1] browsable assets)...
+[2025.01.26-11.13.14:530][558]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/M_Decal_intro_2.M_Decal_intro_2]
+[2025.01.26-11.13.14:530][558]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/M_Decal_intro_2]
+[2025.01.26-11.13.14:530][558]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Decal_intro_2" FILE="D:/hackjam25/Bubble/Content/Materials/M_Decal_intro_2.uasset" SILENT=true
+[2025.01.26-11.13.14:532][558]LogSavePackage: Moving output files for package: /Game/Materials/M_Decal_intro_2
+[2025.01.26-11.13.14:532][558]LogSavePackage: Moving 'D:/hackjam25/Bubble/Saved/M_Decal_intro_216B0EE3444AB7E9658698A823A8CBFF0.tmp' to 'D:/hackjam25/Bubble/Content/Materials/M_Decal_intro_2.uasset'
+[2025.01.26-11.13.14:540][558]LogFileHelpers: InternalPromptForCheckoutAndSave took 132.595 ms (total: 8.34 sec)
+[2025.01.26-11.13.14:571][558]LogStall: Shutdown...
+[2025.01.26-11.13.14:571][558]LogStall: Shutdown complete.
+[2025.01.26-11.13.14:650][558]LogSlate: Window 'NewMaterial1' being destroyed
+[2025.01.26-11.13.14:689][558]LogSlate: Window 'hackjam2025 - Unreal Editor' being destroyed
+[2025.01.26-11.13.14:744][558]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.26-11.13.14:744][558]LogContentValidation: Enabled validators:
+[2025.01.26-11.13.14:744][558]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.26-11.13.14:744][558]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.26-11.13.14:744][558]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.26-11.13.14:744][558]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.26-11.13.14:744][558]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.26-11.13.14:744][558]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.26-11.13.14:744][558]AssetCheck: /Game/Materials/M_Decal_intro_2 Validating asset
+[2025.01.26-11.13.14:749][558]Cmd: QUIT_EDITOR
+[2025.01.26-11.13.14:749][559]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.01.26-11.13.14:757][559]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.01.26-11.13.14:758][559]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.01.26-11.13.14:758][559]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.01.26-11.13.14:781][559]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-11.13.14:782][559]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-11.13.14:782][559]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2025.01.26-11.13.14:792][559]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.01.26-11.13.14:792][559]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.01.26-11.13.14:797][559]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-11.13.14:797][559]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-11.13.14:800][559]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-11.13.14:800][559]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-11.13.14:804][559]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-11.13.14:804][559]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-11.13.14:806][559]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-11.13.14:806][559]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-11.13.14:809][559]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-11.13.14:809][559]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-11.13.14:811][559]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-11.13.14:811][559]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-11.13.14:814][559]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-11.13.14:814][559]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-11.13.14:817][559]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-11.13.14:817][559]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-11.13.14:819][559]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-11.13.14:819][559]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-11.13.14:822][559]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-11.13.14:823][559]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-11.13.14:825][559]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-11.13.14:825][559]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-11.13.14:828][559]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-11.13.14:828][559]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-11.13.14:831][559]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-11.13.14:831][559]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-11.13.14:832][559]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-11.13.14:832][559]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-11.13.14:834][559]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-11.13.14:834][559]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-11.13.14:836][559]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-11.13.14:836][559]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-11.13.14:838][559]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-11.13.14:838][559]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-11.13.14:841][559]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-11.13.14:841][559]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-11.13.14:843][559]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-11.13.14:843][559]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-11.13.14:846][559]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.01.26-11.13.14:848][559]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2025.01.26-11.13.14:848][559]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2025.01.26-11.13.14:848][559]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2025.01.26-11.13.15:253][559]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.01.26-11.13.15:253][559]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.01.26-11.13.15:253][559]LogAudio: Display: Audio Device unregistered from world 'ThirdPersonMap'.
+[2025.01.26-11.13.15:253][559]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.01.26-11.13.15:253][559]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.01.26-11.13.15:254][559]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.01.26-11.13.15:263][559]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.01.26-11.13.15:263][559]LogAudio: Display: Audio Device Manager Shutdown
+[2025.01.26-11.13.15:263][559]LogWindowsTextInputMethodSystem: Activated input method: Polish (Poland) - (Keyboard).
+[2025.01.26-11.13.15:266][559]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.01.26-11.13.15:266][559]LogExit: Preparing to exit.
+[2025.01.26-11.13.15:298][559]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.01.26-11.13.15:307][559]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.26-11.13.15:307][559]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.26-11.13.15:307][559]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.26-11.13.15:307][559]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.26-11.13.15:307][559]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.26-11.13.15:307][559]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.26-11.13.15:307][559]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.26-11.13.15:307][559]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.26-11.13.15:308][559]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.26-11.13.15:308][559]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.26-11.13.15:308][559]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.26-11.13.15:308][559]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.26-11.13.15:308][559]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.26-11.13.15:308][559]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.26-11.13.15:308][559]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.26-11.13.15:308][559]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.26-11.13.15:308][559]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.26-11.13.15:308][559]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.26-11.13.15:308][559]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.26-11.13.15:308][559]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.26-11.13.15:308][559]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.26-11.13.16:392][559]LogEditorDataStorage: Deinitializing
+[2025.01.26-11.13.16:561][559]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.01.26-11.13.16:576][559]LogExit: Editor shut down
+[2025.01.26-11.13.16:577][559]LogExit: Transaction tracking system shut down
+[2025.01.26-11.13.16:693][559]LogCore: Error: PropertyBag: Expecting RefCount to be zero on destructor, but it is 1.
+[2025.01.26-11.13.16:706][559]LogExit: Object subsystem successfully closed.
+[2025.01.26-11.13.16:714][559]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.01.26-11.13.16:934][559]LogMemoryProfiler: Shutdown
+[2025.01.26-11.13.16:934][559]LogNetworkingProfiler: Shutdown
+[2025.01.26-11.13.16:934][559]LoadingProfiler: Shutdown
+[2025.01.26-11.13.16:934][559]LogTimingProfiler: Shutdown
+[2025.01.26-11.13.17:249][559]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.01.26-11.13.17:279][559]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.01.26-11.13.17:279][559]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1F89BFB5-491E-8534-DE72-B8B7D4CAF434%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.1-38445549%2B%2B%2BUE5%2BRelease-5.5&UserID=194cb78949419e49b4186bb4052a2db9%7C8a893d6fd7064076a0fb6511bcac113c%7Cdd02f5aa-5248-4ee5-a99d-a0a083ddb427&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.01.26-11.13.17:986][559]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.01.26-11.13.17:986][559]RenderDocPlugin: plugin has been unloaded.
+[2025.01.26-11.13.17:986][559]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2025.01.26-11.13.17:994][559]LogNFORDenoise: NFORDenoise function shutting down
+[2025.01.26-11.13.17:994][559]LogXGEController: Cleaning working directory: C:/Users/Admin/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2025.01.26-11.13.17:996][559]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.01.26-11.13.17:996][559]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.01.26-11.13.17:996][559]LogPakFile: Destroying PakPlatformFile
+[2025.01.26-11.13.18:423][559]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.01.26-11.13.18:550][559]LogExit: Exiting.
+[2025.01.26-11.13.18:564][559]Log file closed, 01/26/25 12:13:18
